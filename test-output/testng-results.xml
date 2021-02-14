@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="18" total="19" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-01-21T01:21:12 IST" name="Default suite" finished-at="2021-01-21T01:21:35 IST" duration-ms="22659">
+    <groups>
+    </groups>
+    <test started-at="2021-01-21T01:21:12 IST" name="Default test" finished-at="2021-01-21T01:21:35 IST" duration-ms="22659">
+      <class name="com.thirtybees.DummyLoginPage">
+        <test-method is-config="true" signature="loadUrl()[pri:0, instance:com.thirtybees.DummyLoginPage@537f60bf]" started-at="2021-01-21T01:21:12 IST" name="loadUrl" finished-at="2021-01-21T01:21:22 IST" duration-ms="9980" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadUrl -->
+        <test-method signature="myPersonalInformationSection()[pri:19, instance:com.thirtybees.DummyLoginPage@537f60bf]" started-at="2021-01-21T01:21:22 IST" name="myPersonalInformationSection" finished-at="2021-01-21T01:21:35 IST" duration-ms="12606" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myPersonalInformationSection -->
+      </class> <!-- com.thirtybees.DummyLoginPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
